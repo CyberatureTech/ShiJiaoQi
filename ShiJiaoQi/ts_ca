@@ -1,7 +1,0 @@
-#!/bin/sh
-killall -9 ShiJiaoQi
-ts_calibrate
-reboot
-
-
-
